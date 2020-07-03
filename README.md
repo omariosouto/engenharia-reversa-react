@@ -1,9 +1,9 @@
 # Engenharia Reversa React: Dev Soutinho 
 
-[![Série](https://img.shields.io/badge/DevSoutinho-EngenhariaReversaReact-orange)](https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej)
-[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md)
+[![Série](https://img.shields.io/badge/DevSoutinho-EngenhariaReversaReact-orange)](https://youtu.be/5MzOCxSWrrc)
+[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/omariosouto/engenharia-reversa-react/blob/master/LICENSE)
 
-> Projeto da a [série de vídeos no YouTube no canal DevSoutinho](https://www.youtube.com/watch?v=c8mVlakBESE&list=PLTcmLKdIkOWlpvlk5vHaCxwlobqLvcPq6) mostrando como fazer o seu próprio React !!!
+> Projeto da a [série de vídeos no YouTube no canal DevSoutinho](https://youtu.be/5MzOCxSWrrc) mostrando como fazer o seu próprio React !!!
 
 <p align="center">
   <img alt="Logo do projeto" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" />
